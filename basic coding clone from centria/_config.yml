@@ -1,0 +1,14 @@
+remote_theme: pmarsceill/just-the-docs
+logo: "/assets/images/Centria_amk_eng.jpg"
+color_scheme: centria
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+footer_content: "Copyright &copy; 2020 Heikki Ahonen. More information about <a href=\"/basic-coding/license\">licensing here.</a>"
+
+# markdown: GFM
